@@ -2,9 +2,10 @@
 
 ### Task list
 
-| Question | Difficulty | 
-| -------- | ---------- |
-| Two Sum  |    Easy    |
+|       Question     | Difficulty | 
+| ------------------ | ---------- |
+| Two Sum            |    Easy    |
+| Palindrome Number  |    Easy    |
 
 
 
