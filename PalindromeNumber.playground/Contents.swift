@@ -28,7 +28,8 @@ import Foundation
 
 class Solution {
     
-    func isPalindrome(_ x: Int) -> Bool {
+    //The first solution
+    func isPalindromeFirst(_ x: Int) -> Bool {
         var number = x
         var reverseNumber = 0
         
@@ -39,9 +40,25 @@ class Solution {
         }
         return x == reverseNumber
     }
+    
+    //The second solution
+    func isPalindromeSecond(_ x: Int) -> Bool {
+        let numberString = String(x)
+        let numberReverce = String(numberString.reversed())
+        
+        if numberString == numberReverce {
+            return true
+        } else {
+            return false
+        }
+    }
 }
 
 let solution = Solution()
-solution.isPalindrome(123)
-solution.isPalindrome(0)
-solution.isPalindrome(3223)
+solution.isPalindromeFirst(123)
+solution.isPalindromeFirst(0)
+solution.isPalindromeFirst(3223)
+
+solution.isPalindromeSecond(123)
+solution.isPalindromeSecond(0)
+solution.isPalindromeSecond(3223)
