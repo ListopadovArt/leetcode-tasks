@@ -6,6 +6,6 @@
 | ------------------ | ---------- |
 | Two Sum            |    Easy    |
 | Palindrome Number  |    Easy    |
-
+| Reverse Integer    |    Medium  |
 
 
