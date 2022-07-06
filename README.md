@@ -11,3 +11,4 @@
 | Concatenation of Array                               |    Easy    |
 | Running Sum of 1d Array                              |    Easy    |
 | Final Value of Variable After Performing Operations  |    Easy    |
+| Richest Customer Wealth                              |    Easy    |
