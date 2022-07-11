@@ -13,3 +13,4 @@
 | Final Value of Variable After Performing Operations  |    Easy    |
 | Richest Customer Wealth                              |    Easy    |
 | Maximum Number of Words Found in Sentences           |    Easy    |
+| Defanging an IP Address                              |    Easy    |
