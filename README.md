@@ -14,3 +14,4 @@
 | Richest Customer Wealth                              |    Easy    |
 | Maximum Number of Words Found in Sentences           |    Easy    |
 | Defanging an IP Address                              |    Easy    |
+| Add Two Integers                                     |    Easy    |
