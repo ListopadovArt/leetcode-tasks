@@ -12,3 +12,4 @@
 | Running Sum of 1d Array                              |    Easy    |
 | Final Value of Variable After Performing Operations  |    Easy    |
 | Richest Customer Wealth                              |    Easy    |
+| Maximum Number of Words Found in Sentences           |    Easy    |
