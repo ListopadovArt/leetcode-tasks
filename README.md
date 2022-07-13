@@ -15,4 +15,5 @@
 | Maximum Number of Words Found in Sentences           |    Easy    |
 | Defanging an IP Address                              |    Easy    |
 | Add Two Integers                                     |    Easy    |
-| Divide Two Integers                                  |    Easy    |
+| Divide Two Integers                                  |    Medium  |
+| Sum of Two Integers                                  |    Medium  |
