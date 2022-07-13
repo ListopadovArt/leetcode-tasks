@@ -17,3 +17,4 @@
 | Add Two Integers                                     |    Easy    |
 | Divide Two Integers                                  |    Medium  |
 | Sum of Two Integers                                  |    Medium  |
+| Build Array from Permutation                         |    Easy    |
