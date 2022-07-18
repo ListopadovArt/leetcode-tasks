@@ -19,3 +19,4 @@
 | Sum of Two Integers                                  |    Medium  |
 | Build Array from Permutation                         |    Easy    |
 | Jewels and Stones                                    |    Easy    |
+| Goal Parser Interpretation                           |    Easy    |
