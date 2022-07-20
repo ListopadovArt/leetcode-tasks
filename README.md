@@ -21,3 +21,4 @@
 | Jewels and Stones                                    |    Easy    |
 | Goal Parser Interpretation                           |    Easy    |
 | Subtract the Product and Sum of Digits of an Integer |    Easy    |
+| Day of the Week                                      |    Easy    |
