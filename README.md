@@ -23,3 +23,4 @@
 | Subtract the Product and Sum of Digits of an Integer |    Easy    |
 | Day of the Week                                      |    Easy    |
 | Find Minimum in Rotated Sorted Array II              |    Hard    |
+| Search in Rotated Sorted Array II                    |    Medium  |
