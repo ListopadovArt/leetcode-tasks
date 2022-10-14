@@ -46,11 +46,7 @@ class Solution {
         let numberString = String(x)
         let numberReverce = String(numberString.reversed())
         
-        if numberString == numberReverce {
-            return true
-        } else {
-            return false
-        }
+        return numberString == numberReverce ? true: false
     }
 }
 
