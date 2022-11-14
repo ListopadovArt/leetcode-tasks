@@ -25,3 +25,4 @@
 | Find Minimum in Rotated Sorted Array II |    Hard    |
 | Search in Rotated Sorted Array II |    Medium  |
 | Valid Parentheses |    Easy    |
+| Fizz Buzz |    Easy    |
