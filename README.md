@@ -26,3 +26,5 @@
 | Search in Rotated Sorted Array II |    Medium  |
 | Valid Parentheses |    Easy    |
 | Fizz Buzz |    Easy    |
+| Shuffle String |    Easy    |
+
