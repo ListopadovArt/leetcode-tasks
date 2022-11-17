@@ -27,4 +27,4 @@
 | Valid Parentheses |    Easy    |
 | Fizz Buzz |    Easy    |
 | Shuffle String |    Easy    |
-
+| Valid Palindrome |    Easy    |
