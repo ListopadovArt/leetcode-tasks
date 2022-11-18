@@ -28,3 +28,5 @@
 | Fizz Buzz |    Easy    |
 | Shuffle String |    Easy    |
 | Valid Palindrome |    Easy    |
+| To Lower Case |    Easy    |
+
