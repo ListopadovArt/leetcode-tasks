@@ -19,12 +19,23 @@
  
  Input: nums = [3,1,2,10,1]
  Output: [3,4,6,16,17]
+ 
+ Constraints:
+
+ 1 <= nums.length <= 1000
+ -10^6 <= nums[i] <= 10^6
  */
 
 import Foundation
 
 class Solution {
-    func runningSum(_ nums: [Int]) -> [Int] {
+    
+    // The first solution
+    func runningSumFirst(_ nums: [Int]) -> [Int] {
+        guard nums.count != 0 else {
+            return []
+        }
+        
         let nums = nums
         var newArray = [Int]()
         
@@ -37,10 +48,30 @@ class Solution {
         }
         return newArray
     }
+    
+    // The second solution
+    func runningSumSecond(_ nums: [Int]) -> [Int] {
+        guard nums.count != 0 else {
+            return []
+        }
+        var result: [Int] = []
+        var sum = 0
+       
+      
+        for i in nums{
+            sum += i
+            result.append(sum)
+        }
+        return result
+    }
 }
 
 let solution = Solution()
-solution.runningSum([1,1,1,1,1])
-solution.runningSum([3,1,2,10,1])
+solution.runningSumFirst([1,1,1,1,1])   // [1,2,3,4,5]
+solution.runningSumFirst([3,1,2,10,1])   // [3,4,6,16,17]
+solution.runningSumFirst([])   // []
 
+solution.runningSumSecond([1,1,1,1,1])   // [1,2,3,4,5]
+solution.runningSumSecond([3,1,2,10,1])   // [3,4,6,16,17]
+solution.runningSumSecond([])   // []
 
