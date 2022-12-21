@@ -31,3 +31,4 @@
 | To Lower Case |    Easy    |
 | Median of Two Sorted Arrays |    Hard    |
 | Longest Common Prefix |    Easy    |
+| Number of Steps to Reduce a Number to Zero |    Easy    |
