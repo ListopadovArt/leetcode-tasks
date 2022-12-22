@@ -16,7 +16,7 @@
 | 1108 | Defanging an IP Address |    Easy    | Swift |
 | 2235 | Add Two Integers |    Easy    | Swift, Python3, Dart | Swift |
 | 29 | Divide Two Integers |    Medium  | Swift |
-| 371 | Sum of Two Integers |    Medium  | Swift |
+| 371 | Sum of Two Integers |    Medium  | Swift, Python3 |
 | 1920 | Build Array from Permutation |    Easy    | Swift |
 | 771 | Jewels and Stones |    Easy    | Swift |
 | 1678 | Goal Parser Interpretation |    Easy    | Swift |
