@@ -33,7 +33,4 @@
 | Longest Common Prefix |    Easy    |
 | Number of Steps to Reduce a Number to Zero |    Easy    |
 | Middle of the Linked List |    Easy    |
-
-
-
-
+| Ransom Note  |    Easy    |
