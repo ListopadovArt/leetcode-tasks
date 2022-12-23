@@ -35,4 +35,4 @@
 | 876 | Middle of the Linked List |    Easy    | Swift |
 | 383 | Ransom Note  |    Easy    | Swift |
 | 2469 | Convert the Temperature  |    Easy    | Swift, Python3, Dart |
-| 2413 | Smallest Even Multiple  |    Easy    | Swift |
+| 2413 | Smallest Even Multiple  |    Easy    | Swift, Python3 |
