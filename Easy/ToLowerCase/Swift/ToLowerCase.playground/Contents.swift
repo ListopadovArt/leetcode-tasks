@@ -39,9 +39,9 @@ class Solution {
 
 let solution = Solution()
 solution.toLowerCaseFirst("Hello")   // "hello"
-solution.toLowerCaseFirst("here")   // "hello"
+solution.toLowerCaseFirst("here")   // "here"
 solution.toLowerCaseFirst("LOVELY")   // "lovely"
 
 solution.toLowerCaseSecond("Hello")   // "hello"
-solution.toLowerCaseSecond("here")   // "hello"
+solution.toLowerCaseSecond("here")   // "here"
 solution.toLowerCaseSecond("LOVELY")   // "lovely"
