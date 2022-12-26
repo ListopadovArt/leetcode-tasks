@@ -10,7 +10,7 @@
 | 66 | Plus One |    Easy    | Swift, Python3 |
 | 1929 | Concatenation of Array |    Easy    | Swift |
 | 1480 | Running Sum of 1d Array |    Easy    | Swift |
-| 2011 | Final Value of Variable After Performing Operations  |    Easy    | Swift |
+| 2011 | Final Value of Variable After Performing Operations  |    Easy    | Swift, Python3 |
 | 1672 | Richest Customer Wealth |    Easy    | Swift |
 | 2114 | Maximum Number of Words Found in Sentences |    Easy    | Swift |
 | 1108 | Defanging an IP Address |    Easy    | Swift |
