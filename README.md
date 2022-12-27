@@ -5,7 +5,7 @@
 | Number | Question | Difficulty | Language |
 | - | ------------------ | ---------- | ---------- |
 | 1 | Two Sum |    Easy    | Swift |
-| 9 | Palindrome Number |    Easy    | Swift |
+| 9 | Palindrome Number |    Easy    | Swift, Python3 |
 | 7 | Reverse Integer |    Medium  | Swift |
 | 66 | Plus One |    Easy    | Swift, Python3 |
 | 1929 | Concatenation of Array |    Easy    | Swift |
