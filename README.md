@@ -37,3 +37,4 @@
 | 2469 | Convert the Temperature  |    Easy    | Swift, Python3, Dart |
 | 2413 | Smallest Even Multiple  |    Easy    | Swift, Python3 |
 | 1394 | Find Lucky Integer in an Array |    Easy    | Swift |
+| 1979 | Find Greatest Common Divisor of Array | Easy | Swift, Python3 |
