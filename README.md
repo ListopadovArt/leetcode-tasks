@@ -38,5 +38,5 @@
 | 2413 | Smallest Even Multiple  |    Easy    | Swift, Python3 |
 | 1394 | Find Lucky Integer in an Array |    Easy    | Swift |
 | 1979 | Find Greatest Common Divisor of Array | Easy | Swift, Python3 |
-| 35 | Search Insert Position | Easy | Swift |
+| 35 | Search Insert Position | Easy | Swift, Python3 |
 
