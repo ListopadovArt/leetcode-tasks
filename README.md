@@ -39,5 +39,5 @@
 | 1394 | Find Lucky Integer in an Array |    Easy    | Swift |
 | 1979 | Find Greatest Common Divisor of Array | Easy | Swift, Python3 |
 | 35 | Search Insert Position | Easy | Swift, Python3 |
-| 1512 | Number of Good Pairs | Easy | Swift |
+| 1512 | Number of Good Pairs | Easy | Swift, Python3 |
 
