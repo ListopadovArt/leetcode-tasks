@@ -23,7 +23,7 @@
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | Swift |
 | 1185 | Day of the Week | Easy | Swift |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Swift |
-| 81 | Search in Rotated Sorted Array II | Medium | Swift |
+| 81 | Search in Rotated Sorted Array II | Medium | Swift, Python3 |
 | 20 | Valid Parentheses | Easy | Swift |
 | 412 | Fizz Buzz | Easy | Swift |
 | 1528 | Shuffle String | Easy | Swift |

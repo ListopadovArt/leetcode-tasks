@@ -42,5 +42,5 @@ class Solution {
 
 let solution = Solution()
 
-solution.search([2,5,6,0,0,1,2], 0)
-solution.search([2,5,6,0,0,1,2], 3)
+solution.search([2,5,6,0,0,1,2], 0)   // true
+solution.search([2,5,6,0,0,1,2], 3)   // false
