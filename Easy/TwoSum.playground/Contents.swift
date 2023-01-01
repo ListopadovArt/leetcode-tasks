@@ -44,7 +44,6 @@ class Solution {
         var dictionary = [Int:Int]()
         
         for (i,j) in nums.enumerated(){
-            print("\(i): '\(j)'")
             if let lastInd = dictionary[target-j]{
                 return [lastInd, i]
             }
