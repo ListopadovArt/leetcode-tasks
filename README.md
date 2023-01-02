@@ -41,4 +41,4 @@
 | 35 | Search Insert Position | Easy | Swift, Python3 |
 | 1512 | Number of Good Pairs | Easy | Swift, Python3 |
 | 290 | Word Pattern | Easy | Swift |
-| 520 | Detect Capital | Easy | Swift |
+| 520 | Detect Capital | Easy | Swift, Python3 |
