@@ -44,5 +44,6 @@
 | 520 | Detect Capital | Easy | Swift, Python3 |
 | 944 | Delete Columns to Make Sorted | Easy | Swift |
 | 1486 | XOR Operation in an Array | Easy | Swift, Python3 |
+| 2244 | Minimum Rounds to Complete All Tasks | Medium | Swift |
 
 
