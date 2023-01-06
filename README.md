@@ -46,5 +46,5 @@
 | 1486 | XOR Operation in an Array | Easy | Swift, Python3 |
 | 2244 | Minimum Rounds to Complete All Tasks | Medium | Swift, Python3 |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | Swift, Python3 |
-| 1833 | Maximum Ice Cream Bars | Medium | Swift |
+| 1833 | Maximum Ice Cream Bars | Medium | Swift, Python3 |
 
