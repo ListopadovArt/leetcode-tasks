@@ -47,5 +47,5 @@
 | 2244 | Minimum Rounds to Complete All Tasks | Medium | Swift, Python3 |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | Swift, Python3 |
 | 1833 | Maximum Ice Cream Bars | Medium | Swift, Python3 |
-| 134 | Gas Station | Medium | Swift |
+| 134 | Gas Station | Medium | Swift, Python3 |
 
