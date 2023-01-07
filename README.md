@@ -49,4 +49,5 @@
 | 1833 | Maximum Ice Cream Bars | Medium | Swift, Python3 |
 | 134 | Gas Station | Medium | Swift, Python3 |
 | 349 | Intersection of Two Arrays | Easy | Swift, Python3 |
+| 350 | Intersection of Two Arrays II | Easy | Swift |
 
