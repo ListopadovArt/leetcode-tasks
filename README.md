@@ -52,3 +52,5 @@
 | 350 | Intersection of Two Arrays II | Easy | Swift |
 | 2215 | Find the Difference of Two Arrays | Easy | Swift |
 | 2520 | Count the Digits That Divide a Number | Easy | Swift |
+| 283 | Move Zeroes | Easy | Swift |
+
