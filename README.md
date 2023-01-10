@@ -54,4 +54,5 @@
 | 2520 | Count the Digits That Divide a Number | Easy | Swift |
 | 283 | Move Zeroes | Easy | Swift |
 | 100 | Same Tree | Easy | Swift, Python3 |
+| 2236 | Root Equals Sum of Children | Easy | Swift |
 
