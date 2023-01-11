@@ -55,4 +55,5 @@
 | 283 | Move Zeroes | Easy | Swift |
 | 100 | Same Tree | Easy | Swift, Python3 |
 | 2236 | Root Equals Sum of Children | Easy | Swift, Python3 |
+| 104 | Maximum Depth of Binary Tree | Easy | Swift |
 
