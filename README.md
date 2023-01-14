@@ -58,5 +58,4 @@
 | 104 | Maximum Depth of Binary Tree | Easy | Swift |
 | 938 | Range Sum of BST | Easy | Swift |
 | 700 | Search in a Binary Search Tree | Easy | Swift, Python3 |
-
-
+| 2325 | Decode the Message | Easy | Swift |
