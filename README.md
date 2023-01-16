@@ -62,3 +62,4 @@
 | 2418 | Sort the People | Easy | Swift |
 | 2108 | Find First Palindromic String in the Array | Easy | Swift |
 | 1952 | Three Divisors | Easy | Swift, Python3 |
+| 1773 | Count Items Matching a Rule | Easy | Swift |
