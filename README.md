@@ -66,3 +66,4 @@
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | Swift |
 | 1470 | Shuffle the Array | Easy | Swift |
 | 1431 | Kids With the Greatest Number of Candies | Easy | Swift |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Swift |
