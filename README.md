@@ -63,3 +63,4 @@
 | 2108 | Find First Palindromic String in the Array | Easy | Swift |
 | 1952 | Three Divisors | Easy | Swift, Python3 |
 | 1773 | Count Items Matching a Rule | Easy | Swift |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | Swift |
