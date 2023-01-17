@@ -64,4 +64,5 @@
 | 1952 | Three Divisors | Easy | Swift, Python3 |
 | 1773 | Count Items Matching a Rule | Easy | Swift |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | Swift |
-| 1470| Shuffle the Array | Easy | Swift |
+| 1470 | Shuffle the Array | Easy | Swift |
+| 1431 | Kids With the Greatest Number of Candies | Easy | Swift |
