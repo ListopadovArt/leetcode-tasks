@@ -67,3 +67,4 @@
 | 1470 | Shuffle the Array | Easy | Swift |
 | 1431 | Kids With the Greatest Number of Candies | Easy | Swift |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Swift |
+| 1389 | Create Target Array in the Given Order | Easy | Swift |
