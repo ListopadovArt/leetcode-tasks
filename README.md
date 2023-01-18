@@ -69,3 +69,4 @@
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Swift |
 | 1389 | Create Target Array in the Given Order | Easy | Swift |
 | 1720 | Decode XORed Array | Easy | Swift |
+| 2433 | Find The Original Array of Prefix Xor | Medium | Swift |
