@@ -70,3 +70,4 @@
 | 1389 | Create Target Array in the Given Order | Easy | Swift |
 | 1720 | Decode XORed Array | Easy | Swift |
 | 2433 | Find The Original Array of Prefix Xor | Medium | Swift |
+| 1310 | XOR Queries of a Subarray | Medium | Swift |
