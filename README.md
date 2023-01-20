@@ -72,3 +72,4 @@
 | 2433 | Find The Original Array of Prefix Xor | Medium | Swift |
 | 1310 | XOR Queries of a Subarray | Medium | Swift |
 | 2500 | Delete Greatest Value in Each Row | Easy | Swift |
+| 1313 | Decompress Run-Length Encoded List | Easy | Swift |
