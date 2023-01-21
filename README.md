@@ -74,3 +74,4 @@
 | 2500 | Delete Greatest Value in Each Row | Easy | Swift |
 | 1313 | Decompress Run-Length Encoded List | Easy | Swift, Python3 |
 | 41 | First Missing Positive | Hard | Swift |
+| 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | Swift |
