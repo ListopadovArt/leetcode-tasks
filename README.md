@@ -75,3 +75,4 @@
 | 1313 | Decompress Run-Length Encoded List | Easy | Swift, Python3 |
 | 41 | First Missing Positive | Hard | Swift |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | Swift |
+| 1295 | Find Numbers with Even Number of Digits | Easy | Swift |
