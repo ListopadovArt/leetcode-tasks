@@ -76,3 +76,4 @@
 | 41 | First Missing Positive | Hard | Swift |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | Swift |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Swift |
+| 905 | Sort Array By Parity | Easy | Swift |
