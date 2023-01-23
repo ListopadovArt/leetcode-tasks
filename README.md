@@ -78,3 +78,4 @@
 | 1295 | Find Numbers with Even Number of Digits | Easy | Swift |
 | 905 | Sort Array By Parity | Easy | Swift |
 | 1207 | Unique Number of Occurrences | Easy | Swift |
+| 136 | Single Number | Easy | Swift |
