@@ -80,3 +80,5 @@
 | 1207 | Unique Number of Occurrences | Easy | Swift |
 | 136 | Single Number | Easy | Swift |
 | 2161 | Partition Array According to Given Pivot | Medium | Swift |
+| 1662 | Check If Two String Arrays are Equivalent | Easy | Swift |
+
