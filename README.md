@@ -79,3 +79,4 @@
 | 905 | Sort Array By Parity | Easy | Swift |
 | 1207 | Unique Number of Occurrences | Easy | Swift |
 | 136 | Single Number | Easy | Swift |
+| 2161 | Partition Array According to Given Pivot | Medium | Swift |
