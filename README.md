@@ -83,6 +83,6 @@
 | 1662 | Check If Two String Arrays are Equivalent | Easy | Swift |
 | 1323 | Maximum 69 Number | Easy | Swift |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | Swift |
-| 1688 | Count of Matches in Tournament | Easy | Swift |
+| 1688 | Count of Matches in Tournament | Easy | Swift, Python3 |
 
 
