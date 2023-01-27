@@ -87,4 +87,5 @@
 | 557 | Reverse Words in a String III | Easy | Swift |
 | 344 | Reverse String | Easy | Swift, Python3 |
 | 917 | Reverse Only Letters | Easy | Swift |
+| 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | Swift |
 
