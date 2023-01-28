@@ -88,4 +88,5 @@
 | 344 | Reverse String | Easy | Swift, Python3 |
 | 917 | Reverse Only Letters | Easy | Swift |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | Swift |
+| 1832 | Check if the Sentence Is Pangram | Easy | Swift |
 
