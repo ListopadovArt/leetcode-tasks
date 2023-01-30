@@ -91,4 +91,4 @@
 | 1832 | Check if the Sentence Is Pangram | Easy | Swift, Python3 |
 | 1684 | Count the Number of Consistent Strings | Easy | Swift, Python3 |
 | 2185 | Counting Words With a Given Prefix | Easy | Swift |
-
+| 1137 | N-th Tribonacci Number | Easy | Swift |
