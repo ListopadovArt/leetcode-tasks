@@ -92,3 +92,6 @@
 | 1684 | Count the Number of Consistent Strings | Easy | Swift, Python3 |
 | 2185 | Counting Words With a Given Prefix | Easy | Swift |
 | 1137 | N-th Tribonacci Number | Easy | Swift |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | Swift |
+
+
