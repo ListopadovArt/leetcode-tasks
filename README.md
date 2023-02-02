@@ -94,4 +94,5 @@
 | 1137 | N-th Tribonacci Number | Easy | Swift |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | Swift |
 | 1071 | Greatest Common Divisor of Strings | Easy | Swift |
+| 1768 | Merge Strings Alternately | Easy | Swift |
 
