@@ -97,4 +97,5 @@
 | 1768 | Merge Strings Alternately | Easy | Swift |
 | 2278 | Percentage of Letter in String | Easy | Swift |
 | 151 |  Reverse Words in a String | Medium | Swift |
+| 2000 |  Reverse Prefix of Word | Easy | Swift |
 
