@@ -99,3 +99,11 @@
 | 151 |  Reverse Words in a String | Medium | Swift |
 | 2000 |  Reverse Prefix of Word | Easy | Swift |
 | 1859 | Sorting the Sentence | Easy | Swift |
+| 26 | Remove Duplicates from Sorted Array | Easy | Swift |
+
+
+
+
+
+
+
