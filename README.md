@@ -104,6 +104,9 @@
 | 2089 |  Find Target Indices After Sorting Array | Easy | Swift, Python3 |
 | 987 | Vertical Order Traversal of a Binary Tree | Hard | PHP |
 | 23 | Merge k Sorted Lists | Hard | Scala |
+| 23 | Merge k Sorted Lists | Hard | Scala |
+| 23 | Merge k Sorted Lists | Hard | Scala |
+| 23 | Merge k Sorted Lists | Hard | Scala |
 
 
 
