@@ -106,7 +106,7 @@
 | 23 | Merge k Sorted Lists | Hard | Scala |
 | 25 | Reverse Nodes in k-Group | Hard | Phyton |
 | 32 | Longest Valid Parentheses | Hard | Java |
-| 23 | Merge k Sorted Lists | Hard | Scala |
+| 37 | Sufoku Solver | Hard | C++ |
 
 
 
