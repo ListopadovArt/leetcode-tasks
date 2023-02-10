@@ -103,6 +103,7 @@
 | 977 |  Squares of a Sorted Array | Easy | Swift |
 | 2089 |  Find Target Indices After Sorting Array | Easy | Swift, Python3 |
 | 1685 |  Sum of Absolute Differences in a Sorted Array | Medium | Swift |
+| 88 |  Merge Sorted Array | Easy | Swift |
 
 
 
