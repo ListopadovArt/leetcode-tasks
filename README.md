@@ -106,6 +106,7 @@
 | 88 |  Merge Sorted Array | Easy | Swift |
 | 2496 |  Maximum Value of a String in an Array | Easy | Swift |
 | 1935 |  Maximum Number of Words You Can Type | Easy | Swift |
+| 2053 |  Kth Distinct String in an Array | Easy | Swift |
 
 
 
