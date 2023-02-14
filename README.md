@@ -108,6 +108,7 @@
 | 1935 |  Maximum Number of Words You Can Type | Easy | Swift |
 | 2053 |  Kth Distinct String in an Array | Easy | Swift |
 | 1523 |  Count Odd Numbers in an Interval Range | Easy | Swift |
+| 1748 |  Sum of Unique Elements | Easy | Swift |
 
 
 
