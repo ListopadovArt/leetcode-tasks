@@ -109,7 +109,8 @@
 | 2053 |  Kth Distinct String in an Array | Easy | Swift |
 | 1523 |  Count Odd Numbers in an Interval Range | Easy | Swift |
 | 1748 |  Sum of Unique Elements | Easy | Swift |
-
+| 2341 | Maximum Number of Pairs in Array | Easy | Swift |
+| 2085 | Count Common Words With One Occurrence | Easy | Swift |
 
 
 
