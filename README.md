@@ -113,6 +113,7 @@
 | 2085 | Count Common Words With One Occurrence | Easy | Swift |
 | 2248 | Intersection of Multiple Arrays | Easy | Swift |
 | 2396 | Strictly Palindromic Number | Medium | Swift |
+| 1816 | Truncate Sentence | Easy | Swift |
 
 
 
