@@ -115,6 +115,6 @@
 | 2396 | Strictly Palindromic Number | Medium | Swift |
 | 1816 | Truncate Sentence | Easy | Swift |
 | 2427 | Number of Common Factors | Easy | Swift |
-
+| 884 | Uncommon Words from Two Sentences | Easy | Swift |
 
 
