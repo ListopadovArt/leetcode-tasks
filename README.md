@@ -116,5 +116,5 @@
 | 1816 | Truncate Sentence | Easy | Swift |
 | 2427 | Number of Common Factors | Easy | Swift |
 | 884 | Uncommon Words from Two Sentences | Easy | Swift |
-
+| 728 | Self Dividing Numbers | Easy | Swift |
 
