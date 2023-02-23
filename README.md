@@ -117,4 +117,4 @@
 | 2427 | Number of Common Factors | Easy | Swift |
 | 884 | Uncommon Words from Two Sentences | Easy | Swift |
 | 728 | Self Dividing Numbers | Easy | Swift |
-
+| 58 | Length of Last Word | Easy | Swift |
