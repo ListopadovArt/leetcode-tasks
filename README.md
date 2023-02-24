@@ -119,3 +119,4 @@
 | 728 | Self Dividing Numbers | Easy | Swift |
 | 58 | Length of Last Word | Easy | Swift |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | Swift |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Swift |
