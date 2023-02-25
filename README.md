@@ -121,3 +121,4 @@
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | Swift |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Swift |
 | 69 | Sqrt(x) | Easy | Swift |
+| 121 | Best Time to Buy and Sell Stock | Easy | Swift |
