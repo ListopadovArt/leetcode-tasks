@@ -124,4 +124,4 @@
 | 121 | Best Time to Buy and Sell Stock | Easy | Swift |
 | 387 | First Unique Character in a String | Easy | Swift |
 | 389 | Find the Difference | Easy | Swift |
-
+| 2206 | Divide Array Into Equal Pairs | Easy | Swift |
