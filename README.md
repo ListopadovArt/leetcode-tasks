@@ -6,7 +6,7 @@
 | - | ------------------ | ---------- | ---------- |
 | 1 | Two Sum | Easy | Swift |
 | 9 | Palindrome Number | Easy | Swift, Python3 |
-| 7 | Reverse Integer | Medium | Swift |
+| 7 | Reverse Integer | Medium | Swift, Dart |
 | 66 | Plus One | Easy | Swift, Python3 |
 | 1929 | Concatenation of Array | Easy | Swift |
 | 1480 | Running Sum of 1d Array | Easy | Swift |
