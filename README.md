@@ -127,3 +127,4 @@
 | 2206 | Divide Array Into Equal Pairs | Easy | Swift |
 | 2942 | Find Words Containing Character | Easy | Swift |
 | 70 | Climbing Stairs | Easy | Swift |
+| 27 | Remove Element | Easy | Swift |
